@@ -1,0 +1,14 @@
+D:\năm 2\C#\bt_19_4\bt_19_4\obj\Debug\netcoreapp3.1\bt_19_4.csproj.AssemblyReference.cache
+D:\năm 2\C#\bt_19_4\bt_19_4\obj\Debug\netcoreapp3.1\bt_19_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\năm 2\C#\bt_19_4\bt_19_4\obj\Debug\netcoreapp3.1\bt_19_4.AssemblyInfoInputs.cache
+D:\năm 2\C#\bt_19_4\bt_19_4\obj\Debug\netcoreapp3.1\bt_19_4.AssemblyInfo.cs
+D:\năm 2\C#\bt_19_4\bt_19_4\obj\Debug\netcoreapp3.1\bt_19_4.csproj.CoreCompileInputs.cache
+D:\năm 2\C#\bt_19_4\bt_19_4\bin\Debug\netcoreapp3.1\bt_19_4.exe
+D:\năm 2\C#\bt_19_4\bt_19_4\bin\Debug\netcoreapp3.1\bt_19_4.deps.json
+D:\năm 2\C#\bt_19_4\bt_19_4\bin\Debug\netcoreapp3.1\bt_19_4.runtimeconfig.json
+D:\năm 2\C#\bt_19_4\bt_19_4\bin\Debug\netcoreapp3.1\bt_19_4.runtimeconfig.dev.json
+D:\năm 2\C#\bt_19_4\bt_19_4\bin\Debug\netcoreapp3.1\bt_19_4.dll
+D:\năm 2\C#\bt_19_4\bt_19_4\bin\Debug\netcoreapp3.1\bt_19_4.pdb
+D:\năm 2\C#\bt_19_4\bt_19_4\obj\Debug\netcoreapp3.1\bt_19_4.dll
+D:\năm 2\C#\bt_19_4\bt_19_4\obj\Debug\netcoreapp3.1\bt_19_4.pdb
+D:\năm 2\C#\bt_19_4\bt_19_4\obj\Debug\netcoreapp3.1\bt_19_4.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\năm 2\C#\BaiTap_22_3\BaiTap_22_3\bin\Debug\netcoreapp3.1\BaiTap_22_3.exe
+D:\năm 2\C#\BaiTap_22_3\BaiTap_22_3\bin\Debug\netcoreapp3.1\BaiTap_22_3.deps.json
+D:\năm 2\C#\BaiTap_22_3\BaiTap_22_3\bin\Debug\netcoreapp3.1\BaiTap_22_3.runtimeconfig.json
+D:\năm 2\C#\BaiTap_22_3\BaiTap_22_3\bin\Debug\netcoreapp3.1\BaiTap_22_3.runtimeconfig.dev.json
+D:\năm 2\C#\BaiTap_22_3\BaiTap_22_3\bin\Debug\netcoreapp3.1\BaiTap_22_3.dll
+D:\năm 2\C#\BaiTap_22_3\BaiTap_22_3\bin\Debug\netcoreapp3.1\BaiTap_22_3.pdb
+D:\năm 2\C#\BaiTap_22_3\BaiTap_22_3\obj\Debug\netcoreapp3.1\BaiTap_22_3.csproj.AssemblyReference.cache
+D:\năm 2\C#\BaiTap_22_3\BaiTap_22_3\obj\Debug\netcoreapp3.1\BaiTap_22_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\năm 2\C#\BaiTap_22_3\BaiTap_22_3\obj\Debug\netcoreapp3.1\BaiTap_22_3.AssemblyInfoInputs.cache
+D:\năm 2\C#\BaiTap_22_3\BaiTap_22_3\obj\Debug\netcoreapp3.1\BaiTap_22_3.AssemblyInfo.cs
+D:\năm 2\C#\BaiTap_22_3\BaiTap_22_3\obj\Debug\netcoreapp3.1\BaiTap_22_3.csproj.CoreCompileInputs.cache
+D:\năm 2\C#\BaiTap_22_3\BaiTap_22_3\obj\Debug\netcoreapp3.1\BaiTap_22_3.dll
+D:\năm 2\C#\BaiTap_22_3\BaiTap_22_3\obj\Debug\netcoreapp3.1\BaiTap_22_3.pdb
+D:\năm 2\C#\BaiTap_22_3\BaiTap_22_3\obj\Debug\netcoreapp3.1\BaiTap_22_3.genruntimeconfig.cache

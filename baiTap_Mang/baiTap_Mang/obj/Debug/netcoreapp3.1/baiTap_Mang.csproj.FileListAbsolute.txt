@@ -1,0 +1,14 @@
+D:\năm 2\C#\baiTap_Mang\baiTap_Mang\bin\Debug\netcoreapp3.1\baiTap_Mang.exe
+D:\năm 2\C#\baiTap_Mang\baiTap_Mang\bin\Debug\netcoreapp3.1\baiTap_Mang.deps.json
+D:\năm 2\C#\baiTap_Mang\baiTap_Mang\bin\Debug\netcoreapp3.1\baiTap_Mang.runtimeconfig.json
+D:\năm 2\C#\baiTap_Mang\baiTap_Mang\bin\Debug\netcoreapp3.1\baiTap_Mang.runtimeconfig.dev.json
+D:\năm 2\C#\baiTap_Mang\baiTap_Mang\bin\Debug\netcoreapp3.1\baiTap_Mang.dll
+D:\năm 2\C#\baiTap_Mang\baiTap_Mang\bin\Debug\netcoreapp3.1\baiTap_Mang.pdb
+D:\năm 2\C#\baiTap_Mang\baiTap_Mang\obj\Debug\netcoreapp3.1\baiTap_Mang.csproj.AssemblyReference.cache
+D:\năm 2\C#\baiTap_Mang\baiTap_Mang\obj\Debug\netcoreapp3.1\baiTap_Mang.GeneratedMSBuildEditorConfig.editorconfig
+D:\năm 2\C#\baiTap_Mang\baiTap_Mang\obj\Debug\netcoreapp3.1\baiTap_Mang.AssemblyInfoInputs.cache
+D:\năm 2\C#\baiTap_Mang\baiTap_Mang\obj\Debug\netcoreapp3.1\baiTap_Mang.AssemblyInfo.cs
+D:\năm 2\C#\baiTap_Mang\baiTap_Mang\obj\Debug\netcoreapp3.1\baiTap_Mang.csproj.CoreCompileInputs.cache
+D:\năm 2\C#\baiTap_Mang\baiTap_Mang\obj\Debug\netcoreapp3.1\baiTap_Mang.dll
+D:\năm 2\C#\baiTap_Mang\baiTap_Mang\obj\Debug\netcoreapp3.1\baiTap_Mang.pdb
+D:\năm 2\C#\baiTap_Mang\baiTap_Mang\obj\Debug\netcoreapp3.1\baiTap_Mang.genruntimeconfig.cache

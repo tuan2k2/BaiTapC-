@@ -1,0 +1,14 @@
+D:\năm 2\C#\2050531200317_TranAnhTuan_KiemTra\2050531200317_TranAnhTuan_KiemTra\bin\Debug\netcoreapp3.1\2050531200317_TranAnhTuan_KiemTra.exe
+D:\năm 2\C#\2050531200317_TranAnhTuan_KiemTra\2050531200317_TranAnhTuan_KiemTra\bin\Debug\netcoreapp3.1\2050531200317_TranAnhTuan_KiemTra.deps.json
+D:\năm 2\C#\2050531200317_TranAnhTuan_KiemTra\2050531200317_TranAnhTuan_KiemTra\bin\Debug\netcoreapp3.1\2050531200317_TranAnhTuan_KiemTra.runtimeconfig.json
+D:\năm 2\C#\2050531200317_TranAnhTuan_KiemTra\2050531200317_TranAnhTuan_KiemTra\bin\Debug\netcoreapp3.1\2050531200317_TranAnhTuan_KiemTra.runtimeconfig.dev.json
+D:\năm 2\C#\2050531200317_TranAnhTuan_KiemTra\2050531200317_TranAnhTuan_KiemTra\bin\Debug\netcoreapp3.1\2050531200317_TranAnhTuan_KiemTra.dll
+D:\năm 2\C#\2050531200317_TranAnhTuan_KiemTra\2050531200317_TranAnhTuan_KiemTra\bin\Debug\netcoreapp3.1\2050531200317_TranAnhTuan_KiemTra.pdb
+D:\năm 2\C#\2050531200317_TranAnhTuan_KiemTra\2050531200317_TranAnhTuan_KiemTra\obj\Debug\netcoreapp3.1\2050531200317_TranAnhTuan_KiemTra.csproj.AssemblyReference.cache
+D:\năm 2\C#\2050531200317_TranAnhTuan_KiemTra\2050531200317_TranAnhTuan_KiemTra\obj\Debug\netcoreapp3.1\2050531200317_TranAnhTuan_KiemTra.GeneratedMSBuildEditorConfig.editorconfig
+D:\năm 2\C#\2050531200317_TranAnhTuan_KiemTra\2050531200317_TranAnhTuan_KiemTra\obj\Debug\netcoreapp3.1\2050531200317_TranAnhTuan_KiemTra.AssemblyInfoInputs.cache
+D:\năm 2\C#\2050531200317_TranAnhTuan_KiemTra\2050531200317_TranAnhTuan_KiemTra\obj\Debug\netcoreapp3.1\2050531200317_TranAnhTuan_KiemTra.AssemblyInfo.cs
+D:\năm 2\C#\2050531200317_TranAnhTuan_KiemTra\2050531200317_TranAnhTuan_KiemTra\obj\Debug\netcoreapp3.1\2050531200317_TranAnhTuan_KiemTra.csproj.CoreCompileInputs.cache
+D:\năm 2\C#\2050531200317_TranAnhTuan_KiemTra\2050531200317_TranAnhTuan_KiemTra\obj\Debug\netcoreapp3.1\2050531200317_TranAnhTuan_KiemTra.dll
+D:\năm 2\C#\2050531200317_TranAnhTuan_KiemTra\2050531200317_TranAnhTuan_KiemTra\obj\Debug\netcoreapp3.1\2050531200317_TranAnhTuan_KiemTra.pdb
+D:\năm 2\C#\2050531200317_TranAnhTuan_KiemTra\2050531200317_TranAnhTuan_KiemTra\obj\Debug\netcoreapp3.1\2050531200317_TranAnhTuan_KiemTra.genruntimeconfig.cache
