@@ -1,0 +1,14 @@
+D:\năm 2\C#\BaiTap_26_4\BaiTap_26_4\bin\Debug\netcoreapp3.1\BaiTap_26_4.exe
+D:\năm 2\C#\BaiTap_26_4\BaiTap_26_4\bin\Debug\netcoreapp3.1\BaiTap_26_4.deps.json
+D:\năm 2\C#\BaiTap_26_4\BaiTap_26_4\bin\Debug\netcoreapp3.1\BaiTap_26_4.runtimeconfig.json
+D:\năm 2\C#\BaiTap_26_4\BaiTap_26_4\bin\Debug\netcoreapp3.1\BaiTap_26_4.runtimeconfig.dev.json
+D:\năm 2\C#\BaiTap_26_4\BaiTap_26_4\bin\Debug\netcoreapp3.1\BaiTap_26_4.dll
+D:\năm 2\C#\BaiTap_26_4\BaiTap_26_4\bin\Debug\netcoreapp3.1\BaiTap_26_4.pdb
+D:\năm 2\C#\BaiTap_26_4\BaiTap_26_4\obj\Debug\netcoreapp3.1\BaiTap_26_4.csproj.AssemblyReference.cache
+D:\năm 2\C#\BaiTap_26_4\BaiTap_26_4\obj\Debug\netcoreapp3.1\BaiTap_26_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\năm 2\C#\BaiTap_26_4\BaiTap_26_4\obj\Debug\netcoreapp3.1\BaiTap_26_4.AssemblyInfoInputs.cache
+D:\năm 2\C#\BaiTap_26_4\BaiTap_26_4\obj\Debug\netcoreapp3.1\BaiTap_26_4.AssemblyInfo.cs
+D:\năm 2\C#\BaiTap_26_4\BaiTap_26_4\obj\Debug\netcoreapp3.1\BaiTap_26_4.csproj.CoreCompileInputs.cache
+D:\năm 2\C#\BaiTap_26_4\BaiTap_26_4\obj\Debug\netcoreapp3.1\BaiTap_26_4.dll
+D:\năm 2\C#\BaiTap_26_4\BaiTap_26_4\obj\Debug\netcoreapp3.1\BaiTap_26_4.pdb
+D:\năm 2\C#\BaiTap_26_4\BaiTap_26_4\obj\Debug\netcoreapp3.1\BaiTap_26_4.genruntimeconfig.cache
